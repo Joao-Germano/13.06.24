@@ -1,0 +1,3 @@
+/**CREATE DATABASE IF NOT EXISTS `db_sala_16`;**/
+
+CREATE SCHEMA `db_sala_16`;
